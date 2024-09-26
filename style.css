@@ -1,0 +1,128 @@
+body {
+    background-color: #f4f4f4;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    margin-top: 3%;
+
+
+}
+
+li {
+    margin: 8%;
+    list-style: none;
+
+}
+
+img {
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 3%;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#container {
+    width: 68%;
+    height: 400px;
+    background-color: white;
+
+    margin-left: 15%;
+
+
+
+}
+
+span {
+    color: rgb(51, 51, 255);
+
+    font-weight: bolder;
+
+}
+
+#icon {
+
+
+    color: rgb(51, 51, 255);
+    font-size: 35px;
+    margin-top: 20px;
+
+
+
+
+}
+
+#sidebar {
+    background-color: #f1f1f1;
+    width: 85px;
+    height: 81%;
+    margin: 0px;
+    display: flex;
+
+}
+
+#file_icon {
+    padding: 30px;
+    font-size: 35px;
+    margin-left: 10px;
+
+}
+
+#Text {
+    font-weight: bolder;
+    color: black;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#row {
+    display: flex;
+}
+
+#type {
+    position: absolute;
+    bottom: 350px;
+    margin-left: 140px;
+    color: gray;
+    font-size: 20px;
+    font-weight: 100;
+
+
+}
+
+button {
+    position: absolute;
+    left: 65%;
+    bottom: 15%;
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(184, 182, 182);
+
+}
+
+#footer {
+    position: absolute;
+    left: 40%;
+}
+
+#foot_icons {
+
+    position: absolute;
+    left: 42%;
+    font-size: 40px;
+    top: 100%;
+}
